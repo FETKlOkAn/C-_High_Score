@@ -1,0 +1,10 @@
+C:\Users\tomas\source\repos\High_Score_Game\High_Score_Game\obj\Debug\High_Score_Game.csproj.AssemblyReference.cache
+C:\Users\tomas\source\repos\High_Score_Game\High_Score_Game\obj\Debug\High_Score_Game.Form1.resources
+C:\Users\tomas\source\repos\High_Score_Game\High_Score_Game\obj\Debug\High_Score_Game.Properties.Resources.resources
+C:\Users\tomas\source\repos\High_Score_Game\High_Score_Game\obj\Debug\High_Score_Game.csproj.GenerateResource.cache
+C:\Users\tomas\source\repos\High_Score_Game\High_Score_Game\obj\Debug\High_Score_Game.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\High_Score_Game\High_Score_Game\bin\Debug\High_Score_Game.exe.config
+C:\Users\tomas\source\repos\High_Score_Game\High_Score_Game\bin\Debug\High_Score_Game.exe
+C:\Users\tomas\source\repos\High_Score_Game\High_Score_Game\bin\Debug\High_Score_Game.pdb
+C:\Users\tomas\source\repos\High_Score_Game\High_Score_Game\obj\Debug\High_Score_Game.exe
+C:\Users\tomas\source\repos\High_Score_Game\High_Score_Game\obj\Debug\High_Score_Game.pdb
