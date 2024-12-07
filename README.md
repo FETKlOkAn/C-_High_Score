@@ -72,6 +72,7 @@ This is a **Windows Forms Application** written in C# that allows users to regis
 - Enhance the UI for a better user experience.
 - Add error handling for edge cases (e.g., logging in as a non-registered user).
 - Introduce new gameplay features to make the game more engaging.
+- implement modules
 
 ---
 
